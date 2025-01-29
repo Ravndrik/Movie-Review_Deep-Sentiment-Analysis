@@ -30,7 +30,9 @@ We preprocess these reviews to:
 
 ## 📷 Model Interpretability & Visualizations
 
-🔹 Attention Heatmaps
+🔹 Attention Heatmaps and Visualization
+
+![Image](https://github.com/user-attachments/assets/467eb8f2-5764-45f9-a188-15360f3beb48)
 
 🔹 LIME Interpretability Output
 
